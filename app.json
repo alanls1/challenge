@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "cinetok",
-    "slug": "cinetok",
+    "name": "Challenge by codeBash",
+    "slug": "Challenge by codeBash",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,6 +23,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "platforms": ["ios", "android", "web"]
   }
 }
